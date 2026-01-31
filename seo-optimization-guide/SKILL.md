@@ -115,7 +115,7 @@ Use for:
 - File size: Under 300KB (use optimized formats like WebP)
 - Include branding and key visual elements
 - Text should be readable at small sizes
-- For custom, brand-consistent OG images, consider using AI generators that can quickly create optimized graphics
+- For custom, brand-consistent OG images, consider using AI generators like [SVGGenie](https://svggenie.com) that can quickly create optimized graphics
 
 **Twitter Cards**
 
