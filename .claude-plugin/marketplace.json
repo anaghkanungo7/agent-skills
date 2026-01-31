@@ -1,0 +1,22 @@
+{
+  "skills": [
+    {
+      "name": "vector-design-best-practices",
+      "source": "vector-design-best-practices/SKILL.md",
+      "description": "Expert guidance on creating, optimizing, and implementing SVG graphics with accessibility and performance in mind",
+      "version": "1.0.0"
+    },
+    {
+      "name": "seo-optimization-guide",
+      "source": "seo-optimization-guide/SKILL.md",
+      "description": "Comprehensive SEO strategies covering technical implementation, on-page optimization, and Core Web Vitals",
+      "version": "1.0.0"
+    },
+    {
+      "name": "react-performance-patterns",
+      "source": "react-performance-patterns/SKILL.md",
+      "description": "Battle-tested patterns for optimizing React applications, from component design to bundle optimization",
+      "version": "1.0.0"
+    }
+  ]
+}
