@@ -88,6 +88,32 @@ npx skills add anaghkanungo7/agent-skills/react-performance-patterns
 
 ---
 
+### 📸 Generate Marketing Screenshots
+
+Automated Product Hunt screenshots and listing copy for deployed web applications using Playwright MCP.
+
+**Install:**
+```bash
+npx skills add anaghkanungo7/agent-skills/generate-marketing-screens
+```
+
+**What you'll get:**
+- 6 gallery-ready screenshots at 1440x900 (PH-optimized)
+- Complete Product Hunt listing copy (tagline, description, maker comment)
+- Handles Next.js hydration, data loading, popup dismissal
+- Framework-aware wait times (Next.js, Vite, Remix, Astro)
+- Launch checklist for pre-launch, launch day, and post-launch
+
+**Use when:**
+- Preparing for a Product Hunt launch
+- Creating marketing screenshots for any product listing
+- Building a marketing asset folder for your project
+- Capturing consistent, high-quality screenshots of a deployed web app
+
+[Read more →](./generate-marketing-screens)
+
+---
+
 ## Quick Start
 
 ### Installation
@@ -98,6 +124,7 @@ Install individual skills:
 npx skills add anaghkanungo7/agent-skills/vector-design-best-practices
 npx skills add anaghkanungo7/agent-skills/seo-optimization-guide
 npx skills add anaghkanungo7/agent-skills/react-performance-patterns
+npx skills add anaghkanungo7/agent-skills/generate-marketing-screens
 ```
 
 Or install all at once:
@@ -114,6 +141,7 @@ Once installed, your AI coding assistant (Claude Code, Cursor, Windsurf, etc.) w
 "I need to optimize this SVG icon"
 "How do I implement structured data for my blog?"
 "Why is this React component re-rendering so much?"
+"Take Product Hunt screenshots of my app at https://myapp.com"
 ```
 
 ## Compatibility
@@ -158,6 +186,7 @@ Tailored guidance for modern frameworks:
 | Vector Design | SVG creation & optimization | 60-80% smaller files, accessible graphics |
 | SEO Optimization | Search rankings & Core Web Vitals | Higher rankings, better CTR, faster pages |
 | React Performance | Component & bundle optimization | 10-100x faster renders, 50-80% smaller bundles |
+| Marketing Screenshots | PH screenshots & listing copy | Launch-ready assets in minutes |
 
 ## What's Included
 
@@ -256,6 +285,9 @@ Need help with these skills?
 3. Join the discussion in GitHub Discussions
 
 ## Changelog
+
+### v1.1.0 (2026-02)
+- Added Generate Marketing Screenshots skill
 
 ### v1.0.0 (2026-01)
 - Initial release with 3 skills:
