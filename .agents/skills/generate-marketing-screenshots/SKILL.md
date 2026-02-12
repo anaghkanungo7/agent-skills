@@ -1,5 +1,5 @@
 ---
-name: generate-marketing-screens
+name: generate-marketing-screenshots
 description: Automated Product Hunt screenshots and listing copy for deployed Next.js projects using Playwright MCP
 ---
 

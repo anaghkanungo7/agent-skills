@@ -1,5 +1,5 @@
 ---
-name: SEO Optimization Guide
+name: seo-optimization-guide
 description: Comprehensive SEO strategies covering technical implementation, on-page optimization, and Core Web Vitals
 ---
 

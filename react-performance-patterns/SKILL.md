@@ -1,5 +1,5 @@
 ---
-name: React Performance Patterns
+name: react-performance-patterns
 description: Battle-tested patterns for optimizing React applications, from component design to bundle optimization
 ---
 

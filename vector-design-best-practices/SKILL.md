@@ -1,5 +1,5 @@
 ---
-name: Vector Design Best Practices
+name: vector-design-best-practices
 description: Expert guidance on creating, optimizing, and implementing SVG graphics with accessibility and performance in mind
 ---
 
